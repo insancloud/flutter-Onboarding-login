@@ -7,5 +7,5 @@ A new Flutter project.
 This project is a Onboarding Login
 
 <p align="center">
-  <img src="/gitimages/gitimg1.png" width="350" title="hover text">
+  <img src="gitimages/gitimg1.PNG" width="350" title="hover text">
 </p>
