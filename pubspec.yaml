@@ -84,6 +84,9 @@ flutter:
     - family: InterSemiBold
       fonts:
         - asset: assets/fonts/Inter-SemiBold.ttf
+    - family: InterRegular
+      fonts:
+        - asset: assets/fonts/Inter-Regular.ttf
   #   - family: Trajan Pro
   #     fonts:
   #       - asset: fonts/TrajanPro.ttf
